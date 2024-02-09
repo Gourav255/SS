@@ -87,7 +87,7 @@ I thrive in fast-paced environments where my contributions have a measurable, sh
 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="85em" align="center" alt="Follow xre22zax on LinkedIn" title="Follow gourav on LinkedIn"/>](https://www.linkedin.com/in/gourav-sharma-5517692ab/
 )
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' height="85em" align="center" alt="Follow xre22zax on LinkedIn" title="Follow xre22zax on Github"/>](https://github.com/https://github.com/xre22zax/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' height="85em" align="center" alt="Follow xre22zax on LinkedIn" title="Follow gourav255 on Github"/>](https://github.com/Gourav255) 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="85em" align="center" alt="Follow xre22zax on Instagram" title="Follow xre22zax on Instagram"/>](https://www.instagram.com/https://www.instagram.com/_xre22zax//) 
 
 
