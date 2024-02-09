@@ -1,5 +1,5 @@
 # Hi there 👋, my name is GOURAV
-#### I am data analyst 
+#### <h1> I am DATA ANALYST </h1>
 
 </br>
 
