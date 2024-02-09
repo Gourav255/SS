@@ -1,9 +1,9 @@
-# Hi there 👋, my name is reza
+# Hi there 👋, my name is GOURAV
 #### I am data analyst 
 
 </br>
 
-![I am data analyst](https://github.com/xre22zax/xre22zax/blob/main/xre22zax-banner.png)
+![I am data analyst](https://github.com/Gourav255/SS/blob/main/xre22zax-banner.png)
 
 </br>
 
