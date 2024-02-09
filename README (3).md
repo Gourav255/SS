@@ -80,31 +80,6 @@ I thrive in fast-paced environments where my contributions have a measurable, sh
 </br>
 </br>
 
-### Git Stats :
-
-</br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xre22zax&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xre22zax&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-
-### Trophies :
-</br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=xre22zax&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
-
-</br>
-
-
-
-#### Activity :
-
-</br>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xre22zax&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-</br>
 
 ### Follow Me On
 
